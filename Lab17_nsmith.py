@@ -1,7 +1,7 @@
 # Nicholas Smith
 # 10 May 2025
-# Lab 17: GitHub API
-# This program retrieves the top Python repositories from GitHub and visualizes them using Plotly.
+# Lab 17 #2
+# This program retrieves the top C# repositories from GitHub and visualizes them using Plotly.
 
 import requests
 import plotly.express as px
